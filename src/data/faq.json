@@ -1,0 +1,52 @@
+{
+  "sections": [
+    {
+      "id": "top",
+      "title": "Top questions",
+      "items": [
+        {
+          "q": "How does Airbnb help protect hosts?",
+          "a": "Airbnb includes built-in protections and support. Coverage and availability may vary by country and listing type."
+        },
+        {
+          "q": "Can I host part-time?",
+          "a": "Yes. You can set your availability, minimum nights, and house rules. Many hosts start with just a few nights per month."
+        }
+      ]
+    },
+    {
+      "id": "basics",
+      "title": "Hosting basics",
+      "items": [
+        {
+          "q": "How do I create a listing?",
+          "a": "Add photos, set your price and availability, and publish when ready. You can update your listing anytime."
+        },
+        {
+          "q": "What do I need to get started?",
+          "a": "A safe, clean space, clear house rules, and a way to communicate with guests through the app."
+        }
+      ]
+    },
+    {
+      "id": "policy",
+      "title": "Policy & regulations",
+      "items": [
+        {
+          "q": "Do I need permits or licenses?",
+          "a": "Rules depend on your location. Check local regulations and building rules before hosting."
+        }
+      ]
+    },
+    {
+      "id": "cohosts",
+      "title": "Co-hosts",
+      "items": [
+        {
+          "q": "What is a co-host?",
+          "a": "A co-host can help with setup, messaging, cleaning coordination, and more. You decide what they can access."
+        }
+      ]
+    }
+  ]
+}

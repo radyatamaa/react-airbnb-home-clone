@@ -1,0 +1,41 @@
+{
+  "columns": [
+    {
+      "title": "Support",
+      "links": [
+        "Help Center",
+        "AirCover",
+        "Anti-discrimination",
+        "Disability support",
+        "Cancellation options",
+        "Report neighborhood concern"
+      ]
+    },
+    {
+      "title": "Hosting",
+      "links": [
+        "Airbnb your home",
+        "AirCover for Hosts",
+        "Hosting resources",
+        "Community forum",
+        "Hosting responsibly"
+      ]
+    },
+    {
+      "title": "Airbnb",
+      "links": [
+        "Newsroom",
+        "New features",
+        "Careers",
+        "Investors",
+        "Gift cards"
+      ]
+    }
+  ],
+  "bottom": [
+    "\u00a9 2025 Airbnb, Inc.",
+    "Privacy",
+    "Terms",
+    "Sitemap"
+  ]
+}

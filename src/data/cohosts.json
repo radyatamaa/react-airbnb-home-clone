@@ -1,0 +1,47 @@
+[
+  {
+    "id": "jorge",
+    "name": "Jorge",
+    "location": "Co-host in Mexico City, Mexico",
+    "rating": 4.66,
+    "reviews": 26,
+    "price": "$100",
+    "avatarColor": "#f2d6c7"
+  },
+  {
+    "id": "gabrielle",
+    "name": "Gabrielle",
+    "location": "Co-host in Richmond, USA",
+    "rating": 4.78,
+    "reviews": 80,
+    "price": "$99",
+    "avatarColor": "#d2e7d1"
+  },
+  {
+    "id": "mariam",
+    "name": "Mariam",
+    "location": "Co-host in Los Angeles, USA",
+    "rating": 4.84,
+    "reviews": 54,
+    "price": "$120",
+    "avatarColor": "#e9d2d8"
+  },
+  {
+    "id": "elizabeth",
+    "name": "Elizabeth",
+    "location": "Co-host in Toronto, Canada",
+    "rating": 4.7,
+    "reviews": 31,
+    "price": "$115",
+    "avatarColor": "#c9d3e9"
+  },
+  {
+    "id": "anthony",
+    "name": "Anthony",
+    "location": "Co-host in Toronto, Canada",
+    "rating": 4.85,
+    "reviews": 125,
+    "price": "$125",
+    "avatarColor": "#d7c7b6"
+  }
+]
